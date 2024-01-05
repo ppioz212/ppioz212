@@ -1,5 +1,4 @@
 <h1>Hi! I'm Adi Suresh. 👋</h1>
-<h2>About Me</h2>
 <p> 
         <h1>A Little Bit About Me</h1>
         <h2>Aspiring Software Developer | Keyboard Enthusiast | Swing Dancer</h2>
