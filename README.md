@@ -28,7 +28,7 @@
 <p><img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></p>
 
 <h4>Development Tools and Techniques</h4>
-<p><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/Intellij%20Idea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></p>
+<p><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/Intellij%20Idea-F80000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></p>
 
 
 <h2>📝 Get in touch</h2>
