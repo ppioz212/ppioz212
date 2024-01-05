@@ -15,7 +15,8 @@
 
 <h2>🧰 Skills</h2>
 <h4>Object Oriented Programming</h4>
-<p><img src="https://img.shields.io/badge/Java&logo=csharp&logoColor=white"/></p>
+<p><img src="https://img.shields.io/badge/Java-%23239120.svg?style=for-the-badge&logo=java&logoColor=white"/></p>
+
 
 
 <h4>Web Application Development</h4>
